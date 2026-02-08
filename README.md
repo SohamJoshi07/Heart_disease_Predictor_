@@ -1,4 +1,5 @@
 Heart Disease Prediction using Machine Learning
+
 📌 Project Overview
 
 This project focuses on predicting the presence of heart disease using machine learning techniques. The goal is to analyze medical attributes and build predictive models that can assist in early diagnosis and decision-making. The project is implemented in Python using a Jupyter Notebook and follows a structured machine learning workflow from data preprocessing to model evaluation.
@@ -10,7 +11,6 @@ This project focuses on predicting the presence of heart disease using machine l
 
 
 HeartdiseaseFinal.ipynb – Contains the complete implementation, analysis, visualizations, and model training.
-
 README.md – Project documentation.
 
 🧠 Problem Statement
@@ -20,37 +20,23 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 📊 Dataset Description
 
 The dataset contains multiple medical features such as:
-
 Age
-
 Sex
-
 Chest pain type
-
 Resting blood pressure
-
 Cholesterol level
-
 Fasting blood sugar
-
 Maximum heart rate achieved
-
 Other relevant clinical attributes
-
 The target variable indicates the presence or absence of heart disease.
 
 ⚙️ Technologies & Libraries Used
 
 Python
-
 Jupyter Notebook
-
 NumPy
-
 Pandas
-
 Matplotlib / Seaborn
-
 Scikit-learn
 
 🔄 Workflow
@@ -73,33 +59,25 @@ Evaluating model performance using appropriate metrics such as accuracy and conf
 📈 Results & Insights
 
 The trained models are capable of predicting heart disease with good accuracy.
-
 Feature analysis helps identify key medical parameters influencing heart disease risk.
-
 The project demonstrates how machine learning can support healthcare analytics.
 
 🚀 How to Run the Project
 
 Clone the repository:
-
 git clone <repository-url>
 
 
 Open the notebook:
 
 jupyter notebook HeartdiseaseFinal.ipynb
-
-
 Run all cells sequentially to reproduce the results.
 
 📌 Future Improvements
 
 Try advanced models such as Random Forest, XGBoost, or Neural Networks
-
 Perform hyperparameter tuning
-
 Deploy the model using Flask or Streamlit
-
 Use a larger and more diverse dataset
 
 🤝 Contribution
